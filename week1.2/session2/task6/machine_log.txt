@@ -1,0 +1,20 @@
+[2026-10-08 16:36:27] Temperature: 85°C | Pressure: 95 PSI | Status: 1
+- Temperature is too high. Shut down the machine.
+- Pressure is stable.
+- Machine is running in unsafe conditions. Shut it down immediately.
+
+[2026-10-08 16:36:27] Temperature: 60°C | Pressure: 80 PSI | Status: 1
+- Temperature is within safe limits.
+- Pressure is stable.
+- Machine is running normally.
+
+[2026-10-08 16:36:27] Temperature: 45°C | Pressure: 60 PSI | Status: 0
+- Machine temperature is low. No action is needed.
+- Pressure is low. The system is operating normally.
+- Machine is stopped. No immediate action is needed.
+
+[2026-10-08 16:37:43] Temperature: 60°C | Pressure: 85 PSI | Status: 1
+- Temperature is within safe limits.
+- Pressure is stable.
+- Machine is running normally.
+

@@ -1,13 +1,13 @@
 # Task 6
 
-Your objective is to simulate a factory machine monitoring system using
+our objective is to simulate a factory machine monitoring system using
 sensor data. You will implement a program that uses user inputs to monitor
 the status of a machine. Based on the inputs, your program should evaluate
 the conditions and print instructions to the user.
 
 ## Instructions
 
-### Step 1: Get User Inputs
+### Step 1: Get User InputYs
 
 You need to collect three inputs from the user:
 
